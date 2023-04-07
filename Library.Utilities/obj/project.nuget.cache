@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nG5jIZbr3yveJ5igKRxd258u5prcn4AW/471d0racZlDZdMsh0muOl10Ov8Jjb5cHbFymVgEPu2wGipeSeANjQ==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\CloneProject\\SystemCakeok\\Library.Utilities\\Library.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

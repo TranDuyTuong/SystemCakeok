@@ -1,6 +1,25 @@
+using Library.DataTable.TableRole;
+using Library.DataTable.TableUser;
+using Library.DomainData.DataEF;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using Library.Repository;
+using Library.ServiceAdmin;
 
 var builder = WebApplication.CreateBuilder(args);
+
+//call connectionstring database
+builder.Services.AddDbContext<ContextDBCakeOk>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DB_CakeOk")));
+
+builder.Services.AddRepository();
+builder.Services.AddSerivceAdmin();
+
+builder.Services.AddIdentity<T_User, T_Role>()
+    .AddEntityFrameworkStores<ContextDBCakeOk>()
+    .AddDefaultTokenProviders();
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -12,6 +31,7 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
         options.ExpireTimeSpan = TimeSpan.FromMinutes(10);
         options.SlidingExpiration = true;
     });
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

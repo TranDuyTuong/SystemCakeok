@@ -23,11 +23,16 @@ namespace ManagerCakeOk.Controllers
             return View();
         }
 
-        [HttpPost]
-        public async Task<IActionResult> Logout()
+        [HttpGet]
+        public IActionResult PartialSibarMenu()
         {
-            await HttpContext.SignOutAsync();
-            return RedirectToAction("Index", "Home");
+            return PartialView();
+        }
+
+        [HttpGet]
+        public IActionResult PartialHeaderMenu()
+        {
+            return PartialView();
         }
 
         public IActionResult Privacy()

@@ -12,7 +12,7 @@ build_property.RootNamespace = ManagerCakeOk
 build_property.ProjectDir = D:\Project\CloneProject\SystemCakeok\ManagerCakeOk\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = D:\Project\CloneProject\SystemCakeok\ManagerCakeOk
 build_property._RazorSourceGeneratorDebug = 
 
@@ -20,12 +20,92 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Citys/PageCity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eXNcUGFnZUNpdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Citys/PageCreateCity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eXNcUGFnZUNyZWF0ZUNpdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Citys/PageDetailCity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eXNcUGFnZURldGFpbENpdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Countrys/PageCountry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeXNcUGFnZUNvdW50cnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Countrys/PageCreateCountry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeXNcUGFnZUNyZWF0ZUNvdW50cnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Districts/CreateDistrict.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpY3RzXENyZWF0ZURpc3RyaWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Districts/PageDistrict.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpY3RzXFBhZ2VEaXN0cmljdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Gender/CreateGenerGet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZGVyXENyZWF0ZUdlbmVyR2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Gender/PageGender.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZGVyXFBhZ2VHZW5kZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Home/PartialHeaderMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXJ0aWFsSGVhZGVyTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Home/PartialSibarMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXJ0aWFsU2liYXJNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/ManagerAccount/DetailAccountGet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlckFjY291bnRcRGV0YWlsQWNjb3VudEdldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/ManagerAccount/PageAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlckFjY291bnRcUGFnZUFjY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/ManagerAccount/PageCreateAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlckFjY291bnRcUGFnZUNyZWF0ZUFjY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/ManagerAccount/PageStaffOrChef.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlckFjY291bnRcUGFnZVN0YWZmT3JDaGVmLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Marriages/CreateMarriage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFycmlhZ2VzXENyZWF0ZU1hcnJpYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Marriages/PageMarriage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFycmlhZ2VzXFBhZ2VNYXJyaWFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Roles/CreateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlUm9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Roles/PageDetailRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcUGFnZURldGFpbFJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Roles/PageRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcUGFnZVJvbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Project/CloneProject/SystemCakeok/ManagerCakeOk/Views/Secured/Index.cshtml]
